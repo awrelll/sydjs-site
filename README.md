@@ -1,34 +1,4 @@
-sydjs.com
-=========
 
-## The SydJS Website.
-
-Initially built in two and a half days by the team at [Thinkmill](http://www.thinkmill.com.au) as a demo of what [KeystoneJS](http://keystonejs.com) can do, it's now a showcase for the Sydney Javascript community.
-
-## Get Involved!
-
-Please use the GitHub Issues to log any ideas you have to improve the site, or problems you may come across.
-
-Or if you're feeling more adventurous, go pick an issue and submit a pull request.
-
-Feel free to ask questions about how it works, if you're getting into the code.
-
-If you are part of another meetup group and want to use our site as a basis for your own, that's great, we'd love to hear about it.
-
-### Coding Guidelines
-
-If you're contributing code, please do your best to follow the conventions established in the codebase already. This makes pull requests much easier to review and merge.
-
-We have generally followed the guidelines set out in [AirBnB's Javascript Style Guide](https://github.com/airbnb/javascript), with the exception of using real tabs for indentation.
-
-
-## Getting Started
-
-To run the SydJS site locally, there are a few things to set up.
-
-Because we have some private keys for our MongoDB, Cloudinary and Mandrill accounts, you'll need to set up your own equivalents before the site will run properly.
-
-_If you're looking to work on the SydJS site and want access to our accounts, please get in touch_
 
 ### Install Node.js and MongoDB
 
